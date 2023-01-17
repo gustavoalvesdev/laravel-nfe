@@ -34,7 +34,7 @@ class GeraXMLNfe extends Controller
      */
     public function store(Request $request)
     {
-        //
+        echo 'Imprimir Agora';
     }
 
     /**
